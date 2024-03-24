@@ -1,5 +1,5 @@
 {
-  "name": "task-03(name-cases)",
+  "name": "task-21-to-45",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.20"
+  "dependencies": {
+    "@types/node": "^20.11.27"
   }
 }
